@@ -39,9 +39,9 @@ print("Sum:", round(sum(best_subset), 2))
 ```
 ## 💻 Usage
 Run in terminal:
-'''
+```python
 python best_AMEX_points_spend_Amazon.py
-'''
+```
 
 🔧 Customization
 1. Change amounts to your own list of transaction totals.
